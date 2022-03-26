@@ -1,8 +1,7 @@
 ### Hi, I'm Amir Abroun <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  
 
-[![Gmail Badge](https://img.shields.io/badge/-abroon234@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:abroon234@gmail.com)](mailto:abroon234@gmail.com)
-
+[![Gmail Badge]( 	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abroon234@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amirabroun/)
 </p>
 
