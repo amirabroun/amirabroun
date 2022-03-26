@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi, I'm Amir Abroun <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ 
 
-<!--
-**amirabroun/amirabroun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Gmail Badge](https://img.shields.io/badge/-abroon234@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:abroon234@gmail.com)](mailto:abroon234@gmail.com)
+</p>
 
-Here are some ideas to get you started:
+##### Technologies & Tools
+![PHP](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![PHP-OOP](https://img.shields.io/badge/PHP-Object_Oriented_Programming-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=Laravel&logoColor=white&color=2bbc8a)
+![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![Bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![MySQL](https://img.shields.io/badge/DataBase-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![Git](https://img.shields.io/badge/Tools-git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![VSCode](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=2bbc8a)
+![GitHub](https://img.shields.io/badge/Site-github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A junior software development, Addicted to learning, loves problem solving and is interested in creating new things. I have the necessary skills in my specialty and my goal is to gain new experience alongside experienced people.
+
+Some of my technical features:
+   - Having experience and teamwork spirit (with git control version).
+   - Full understanding of algorithms and flowcharts.
+   - Ability to solve problems with high creativity.
+   - Basic coding and observance of Clean Code rules.
