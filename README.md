@@ -2,6 +2,8 @@
  
 
 [![Gmail Badge](https://img.shields.io/badge/-abroon234@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:abroon234@gmail.com)](mailto:abroon234@gmail.com)
+
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amirabroun/)
 </p>
 
 ##### Technologies & Tools
