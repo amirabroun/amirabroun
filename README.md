@@ -18,7 +18,7 @@
 ![VSCode](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=2bbc8a)
 ![GitHub](https://img.shields.io/badge/Site-github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 
-A junior software development, Addicted to learning, loves problem solving and is interested in creating new things. I have the necessary skills in my specialty and my goal is to gain new experience alongside experienced people.
+A junior software developer, Addicted to learning, interested in problem solving, individual development and my goal is to gain new experience alongside experienced people.
 
 Some of my technical features:
    - Having experience and teamwork spirit (with git control version).
