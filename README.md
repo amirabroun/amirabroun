@@ -1,10 +1,4 @@
 ### Hi, I'm Amir Abroun <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
- 
-
-[![Gmail Badge]( 	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abroon234@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amirabroun/)
-[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp_:_09398720306-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
-</p>
 
 ##### Technologies & Tools
 ![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=Laravel&logoColor=white&color=2bbc8a)
