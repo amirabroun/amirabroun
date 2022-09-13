@@ -4,7 +4,9 @@ A junior software developer, Addicted to learning, interested in problem solving
 
 ##### Technologies & Tools
 ![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=Laravel&logoColor=white&color=2bbc8a)
+![PHP-MVS](https://img.shields.io/badge/Architecture-MVC-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![PHP-OOP](https://img.shields.io/badge/PHP-Object_Oriented_Programming-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![NGINX](https://img.shields.io/badge/Web_Server-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=2bbc8a)
 ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![Bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
